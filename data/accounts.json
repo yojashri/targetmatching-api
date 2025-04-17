@@ -1,0 +1,5 @@
+[
+    { "id": 1, "company": "Acme Corp", "match_score": 85, "status": "Prospect" },
+    { "id": 2, "company": "Globex Inc", "match_score": 78, "status": "Unknown" }
+  ]
+  
